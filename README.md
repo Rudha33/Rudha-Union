@@ -1,1 +1,3 @@
-# Rudha Union <img width="400" height="300" alt="Rudha Union" src="https://github.com/user-attachments/assets/5e5a9562-6431-4839-9c03-61ade5a187bd" />
+# Rudha Union - GDI Python virus
+
+<img width="400" height="300" alt="Rudha Union" src="https://github.com/user-attachments/assets/e5835ded-6262-48ff-941e-450fd48168f3" />
