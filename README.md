@@ -1,7 +1,5 @@
 # Rudha Union - GDI Python
 
-Rudha Union is a small GDI Virus, made for education purposes!
-This small .exe is now on you'r HARMLESS EDITION! i'm developing the desctrutive
 
 <img width="400" height="300" alt="Rudha Union" src="https://github.com/user-attachments/assets/71c9a103-a982-4505-bb50-4fdc186b1397" />
 
